@@ -24,11 +24,17 @@ Directories
 <i>Taken from Eclipse IDE Workspace</i>
 
 /src/ - All the source files and images
+
 /bin/ - class files and images
+
 /extra_images/ - backup and extra images
+
 /Screenshots/ - Screenshot of the running application
+
     1_firstScreen.png - Screenshot of application after starting. Instructions are given in the right bottom panels
     2_selectedItems.png - Screenshot of application after selecting few components. Selected Items tab in the right-bottom                           panel is updated in realtime. This helps the user to see what he had selected previously
     3_resultChart.png - Screenshot of application after pressing Result button. Graph of a random selection.
+    
 /lib/ - external libraries used for charts
+
 beta.jar - First beta version of the application as a runnable jar file
